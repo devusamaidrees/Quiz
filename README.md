@@ -18,3 +18,15 @@ Which country have no river?
 Which one is the biggest empire in history?
 
 Each question has four possible answers, only one of which is correct.
+# Files
+The application consists of three files:
+
+**index.html**: This file contains the HTML code for the quiz interface.
+
+**style.css**: This file contains the CSS code for styling the quiz interface.
+
+**script.js**: This file contains the JavaScript code for the quiz logic.
+# Customization
+You can customize the quiz questions by editing the HTML code in the **index.html** file. Each question is contained within a **<div>** element with the class **question**. The question text is contained within a **<p>** element with the class **question-text**. The four multiple-choice answers are contained within **<button>** elements with the class **btn**.
+
+You can also customize the quiz styling by editing the CSS code in the **style.css** file.
